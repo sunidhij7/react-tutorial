@@ -1,0 +1,46 @@
+
+
+*{
+  box-sizing: border-box;
+  font-family: "Tomato-Grotesk-Regular", "Verdana", sans-serif, "ui-sans-serif",
+  "system-ui", "-apple-system";
+
+}
+
+html {
+  margin: 2rem;
+  padding: 0;
+  height: 100%;
+}
+
+
+ /* header */
+ .header{
+  padding-bottom: 2rem;
+}
+
+.header__top{
+  font-size: 2.3rem;
+line-height: 40px;
+
+font-weight: 500;
+padding-bottom: 2rem;
+}
+
+.header__warning{
+  background-color: hsl(244, 70%, 96.1%);
+  padding: 0.5rem;
+  border-radius: 0.7rem;
+  display: inline-flex;
+  align-items: center;
+}
+.header__warning--text{
+  font-size: 1rem;
+  margin-left: 1rem;
+  line-height: 1.5rem;
+}
+
+a:visited{
+  color: black;
+  cursor: pointer;
+}
