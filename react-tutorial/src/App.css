@@ -44,3 +44,85 @@ a:visited{
   color: black;
   cursor: pointer;
 }
+
+p {
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.section-heading{
+  font-size: 1.5rem;
+line-height: 40px;
+
+font-weight: 570;
+}
+
+.feature-card-container{
+  display: grid;
+  flex-wrap: wrap;
+  grid-row-gap: 1rem;
+  grid-column-gap: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  margin-bottom: 2rem;
+  }
+
+.feature-card{
+  display: flex;
+  min-height: 190px;
+  max-height: 250px;
+  border: 1px solid hsl(0, 0%, 89%);
+  border-radius: 1rem;
+  color: inherit;
+  width: 100%;
+}
+
+  .feature-card:hover{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+
+  }
+
+  .feature-card-icon{
+    background-color: #e8fedf;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+  }
+
+  .feature-card__left{
+    margin: 1rem;
+  }
+  .feature-card__right{
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+
+  }
+
+  .feature-card__text{
+    color: #696969;
+    font-size: 1rem;
+  }
+
+  .feature-card__heading{
+margin-bottom: 0;  
+}
+
+.black-button{
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-weight: 600;
+  line-height: 1.5rem;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border: none;
+  border-radius: 1rem;
+}
+
+.black-button:hover{
+  cursor: pointer;
+  background-color: #212020;
+}
