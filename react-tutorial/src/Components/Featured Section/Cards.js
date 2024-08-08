@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Plane from "../Icons/Plane.js"
+import ReusableIcon from "../ReusableIcon.jsx";
 
 const Cards = () => {
   const [cards, setCards] = useState([]);
@@ -16,7 +17,7 @@ const Cards = () => {
       {cards.map((cards) => (
           <div className="feature-card">
           <div className="feature-card__left">
-            <Plane/>
+            <ReusableIcon iconData={cards.svgdata}/>
             {/* <img src="{cards.svg}" alt="icon"/> */}
           </div>
           <div className="feature-card__right">
