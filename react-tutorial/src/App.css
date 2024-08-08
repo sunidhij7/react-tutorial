@@ -60,22 +60,25 @@ font-weight: 570;
 }
 
 .feature-card-container{
-  display: grid;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
-  grid-row-gap: 1rem;
-  grid-column-gap: 2rem;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   margin-bottom: 2rem;
+  justify-content: center;
   }
 
 .feature-card{
   display: flex;
+  margin: 1rem;
   min-height: 190px;
   max-height: 250px;
   border: 1px solid hsl(0, 0%, 89%);
   border-radius: 1rem;
   color: inherit;
   width: 100%;
+  min-width: 25rem;
+  max-width: 27rem;
 }
 
   .feature-card:hover{
@@ -88,6 +91,8 @@ font-weight: 570;
     background-color: #e8fedf;
     border-radius: 0.5rem;
     padding: 0.5rem;
+    width :45px;
+    height: 45px;
   }
 
   .feature-card__left{

@@ -1,12 +1,13 @@
 import './App.css';
-import Featured from './Components/Featured.jsx';
-import Header from './Components/Header.jsx'
+import Featured from './Components/Featured Section/Featured.js';
+import Header from './Components/Header/Header.js'
 
 function App() {
   return (
     <div className="App">
-      <Header></Header>
-      <Featured></Featured>
+      <Header/>
+      <Featured/>
+      
     </div>
   );
 }

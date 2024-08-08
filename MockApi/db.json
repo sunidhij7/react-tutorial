@@ -1,0 +1,46 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "title": "Card-1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+      "button": "button-name 1",
+      "svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgc3R5bGU9ImZpbGw6I2ZkMGUwMCIvPgo8L3N2Zz4="
+    },
+    {
+      "id": "2",
+      "title": "Card-2",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when",
+      "button": "button-name 2",
+      "svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8cGF0aCBkPSJNNTAsMTAgYS41LjUsIDAgMSwxIDAsNzB6IiBzdHlsZT0iZmlsbDojZmQwZTAwIi8+Cjwvc3ZnPg=="
+    },
+    {
+      "id": "3",
+      "title": "Card-3",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text.Latin literature from 45 BC.",
+      "button": "button-name 3",
+      "svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgc3R5bGU9ImZpbGw6I2ZkMGUwMCIvPgo8L3N2Zz4="
+    },
+    {
+      "id": "4",
+      "title": "Card-4",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have.",
+      "button": "button-name 4",
+      "svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8cG9seWdvbiBwb2ludHM9IjUwLDEwIDcwLDcwIDMwLDcwIiBzdHlsZT0iZmlsbDojZmQwZTAwIi8+Cjwvc3ZnPg=="
+    },
+    {
+      "id": "5",
+      "title": "Card-5",
+      "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below of a page when",
+      "button": "button-name 5",
+      "svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8cG9seWdvbiBwb2ludHM9IjUwLDEwIDcwLDcwIDMwLDcwIiBzdHlsZT0iZmlsbDojZmQwZTAwIi8+Cjwvc3ZnPg=="
+    },
+    {
+      "id": "6",
+      "title": "Card-6",
+      "description": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.",
+      "button": "button-name 6",
+      "svg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8ZWxsaXBzZSBjeD0iNTAiIGN5PSI1MCIgcng9IjMwIiByeT0iMjAiIHN0eWxlPSJmaWxsOiNmZDBlMDAiLz4KPC9zdmc+"
+    }
+  ]
+}

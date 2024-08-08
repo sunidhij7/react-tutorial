@@ -4,8 +4,8 @@ function Header() {
   return (
     <>
       <header className="header">
-        <h1 class="header__top">Welcome Abhimanyu</h1>
-        <div class="header__warning">
+        <h1 className="header__top">Welcome Abhimanyu</h1>
+        <div className="header__warning">
           {/* <!-- info icon --> */}
           <div>
             <svg
