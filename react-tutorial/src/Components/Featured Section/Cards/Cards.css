@@ -1,0 +1,46 @@
+.card {
+  display: flex;
+  margin: 1rem;
+  min-height: 190px;
+  max-height: 250px;
+  border: 1px solid hsl(0, 0%, 89%);
+  border-radius: 1rem;
+  color: inherit;
+  width: 100%;
+  min-width: 25rem;
+  max-width: 27rem;
+}
+
+.card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+
+.card--left {
+  margin: 1rem;
+}
+.card--right {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.card--right__description {
+  color: #696969;
+  font-size: 1rem;
+}
+
+.card--right__title {
+  margin-bottom: 0;
+}
+
+.card--modal {
+  display: block;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(125, 147, 116, 0.5);
+}

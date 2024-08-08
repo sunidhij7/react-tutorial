@@ -59,75 +59,7 @@ line-height: 40px;
 font-weight: 570;
 }
 
-.feature-card-container{
-  margin: auto;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  margin-bottom: 2rem;
-  justify-content: center;
-  }
 
-.feature-card{
-  display: flex;
-  margin: 1rem;
-  min-height: 190px;
-  max-height: 250px;
-  border: 1px solid hsl(0, 0%, 89%);
-  border-radius: 1rem;
-  color: inherit;
-  width: 100%;
-  min-width: 25rem;
-  max-width: 27rem;
-}
 
-  .feature-card:hover{
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-  cursor: pointer;
 
-  }
 
-  .feature-card-icon{
-    background-color: #e8fedf;
-    border-radius: 0.5rem;
-    padding: 0.5rem;
-    width :45px;
-    height: 45px;
-  }
-
-  .feature-card__left{
-    margin: 1rem;
-  }
-  .feature-card__right{
-    margin-left: 0.5rem;
-    margin-right: 0.5rem;
-
-  }
-
-  .feature-card__text{
-    color: #696969;
-    font-size: 1rem;
-  }
-
-  .feature-card__heading{
-margin-bottom: 0;  
-}
-
-.black-button{
-  background-color: black;
-  color: white;
-  text-align: center;
-  font-weight: 600;
-  line-height: 1.5rem;
-  padding-left: 16px;
-  padding-right: 16px;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  border: none;
-  border-radius: 1rem;
-}
-
-.black-button:hover{
-  cursor: pointer;
-  background-color: #212020;
-}

@@ -1,0 +1,44 @@
+/* Foreground Panel */
+.card--modal__panel {
+  border: none;
+  border-radius: 1rem;
+  background-color: #fefefe;
+  box-shadow: 0 10px 16px -8px rgba(28, 28, 28, 0.3);
+  margin: 15% auto;
+  padding: 20px;
+  width: 80%;
+  cursor: auto;
+}
+
+/* Header */
+.card--modal__panel--header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card--modal__panel--header__title {
+  font-weight: 500;
+  margin-top: 0.5rem;
+  margin-bottom: 0.4rem;
+}
+
+/* Close Button */
+.card--modal__panel--header__closebtn {
+  background-color: white;
+  border: none;
+  width: 35px;
+  height: 35px;
+}
+
+.card--modal__panel--header__closebtn:hover {
+  cursor: pointer;
+  background-color: rgb(226, 224, 224);
+  border: none;
+  border-radius: 0.8rem;
+}
+
+/* Text */
+.card--modal__panel--text {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
