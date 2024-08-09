@@ -1,8 +1,8 @@
 import React from 'react'
 import './BlackButton.css'
 
-export default function BlackButton({buttonTitle}) {
+export default function BlackButton({onClick, buttonTitle}) {
   return (
-    <button className='black-button'>{buttonTitle}</button>
+    <button onClick={onClick} className='black-button'>{buttonTitle}</button>
   )
 }

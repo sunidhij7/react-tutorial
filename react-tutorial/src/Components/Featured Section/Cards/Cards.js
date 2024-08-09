@@ -12,7 +12,7 @@ const Cards = () => {
   const closeModal = () => setOpenModalId(null);
 
   useEffect(() => {
-    fetch("http://localhost:5001/cards")
+    fetch("http://localhost:5002/cards")
       .then((response) => response.json())
       .then((data) => setCards(data))
       .catch((error) => console.error("Error fetching data:", error));
@@ -28,11 +28,7 @@ const Cards = () => {
           <div className="card--right">
             <h4 className="card--right__title">{card.title}</h4>
             <p className="card--right__description">{card.description}</p>
-            <div
-              onClick={() => openModal(card.id)}
-            >
-              <BlackButton buttonTitle={card.button} />
-            </div>
+              <BlackButton onClick={() => openModal(card.id)} buttonTitle={card.button} />
             {openModalId === card.id && (
               <Modal
                 isOpen={true}

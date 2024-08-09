@@ -27,7 +27,9 @@ export default function Modal({ modalData, isOpen, onClose, modalHeading }) {
             <CloseButton />
           </div>
         </div>
-        <div className=".card--modal__panel--text">
+        <div
+          className=".card--modal__panel--text"
+        >
           <p>{modalData}</p>
         </div>
       </div>
