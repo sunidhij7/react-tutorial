@@ -9,7 +9,7 @@ ul {
     flex-direction: column;
   }
   
-  .accordian--trigger{
+  .accordion--trigger{
     color: black;
     font-size: 1.5rem;
     cursor: pointer;
