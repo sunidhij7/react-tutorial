@@ -10,8 +10,11 @@
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
     "scroll-up-react": "1.2.5",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "gh-pages": "^6.1.1"
+
   },
+  "homepage": "https://sunidhij7.github.io/react-tutorial/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -19,7 +22,7 @@
     "eject": "react-scripts eject",
     "runMyScript": "node ./src/script.js",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b main -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -38,8 +41,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^6.1.1"
   }
 }

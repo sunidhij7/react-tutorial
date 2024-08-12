@@ -28,7 +28,13 @@ p {
   margin-inline-start: 0px;
   margin-inline-end: 0px;
 }
-
+.header__warning{
+  background-color: hsl(244, 70%, 96.1%);
+  padding: 0.5rem;
+  border-radius: 0.7rem;
+  display: inline-flex;
+  align-items: center;
+}
 .section-heading {
   font-size: 1.5rem;
   line-height: 40px;
