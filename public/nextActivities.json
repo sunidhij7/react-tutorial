@@ -1,0 +1,35 @@
+{
+  "nextActivities": [
+    {
+      "id": "1",
+      "title": "To do",
+      "button1": "To do",
+      "button2": "Overdue"
+    },
+    {
+      "id": "2",
+      "title": "To do",
+      "button1": "To do",
+      "button2": "Overdue"
+    },
+    {
+      "id": "3",
+      "title": "Send an email",
+      "button1": "To do",
+      "button2": "Done"
+    },
+    {
+      "id": "4",
+
+      "title": "To do",
+      "button1": "Send",
+      "button2": "Overdue"
+    },
+    {
+      "id": "5",
+      "title": "Call",
+      "button1": "To do",
+      "button2": "Done"
+    }
+  ]
+}
