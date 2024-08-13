@@ -2,7 +2,7 @@ import React from "react";
 import Table from "../ReusableComponents/Table/Table";
 
 const NextActivities = () => {
-  const apiUrl = "http://localhost:5002/nextActivities"; // The API URL you want to pass
+  const apiUrl = "http://localhost:3000/nextActivities"; // The API URL you want to pass
 
   return (
     <>
