@@ -4,7 +4,7 @@ import Table from '../ReusableComponents/Table/Table'
 
 
 const RecentCampaigns = () => {
-    const apiUrl = "http://localhost:5002/recentCampaigns"; // The API URL you want to pass
+    const apiUrl = "http://localhost:3000/recentCampaigns"; // The API URL you want to pass
 
   return (
     <>
