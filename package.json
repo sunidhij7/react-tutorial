@@ -14,7 +14,7 @@
     "gh-pages": "^6.1.1"
 
   },
-  "homepage": "https://sunidhij7.github.io/react-tutorial/react-tutorialreact-tutorial",
+  "homepage": "https://sunidhij7.github.io/react-tutorial/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
