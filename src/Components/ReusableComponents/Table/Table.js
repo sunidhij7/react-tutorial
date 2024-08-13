@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
-import './Table.css';
+import "./Table.css";
 
-const Table = ({ apiUrl, dataKey }) => {  
+const Table = ({ apiUrl, dataKey }) => {
   const [table, setTable] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -10,7 +10,7 @@ const Table = ({ apiUrl, dataKey }) => {
     fetch(apiUrl)
       .then((response) => {
         if (!response.ok) {
-          throw new Error('Network response was not ok');
+          throw new Error("Network response was not ok");
         }
         return response.json();
       })

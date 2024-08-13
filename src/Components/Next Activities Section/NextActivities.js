@@ -17,7 +17,7 @@ const NextActivities = () => {
       </div>
       <Table apiUrl={apiUrl} dataKey="nextActivities" />
     </>
-  );
+  ); 
 };
 
 export default NextActivities;
