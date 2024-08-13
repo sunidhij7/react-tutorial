@@ -12,9 +12,9 @@ const Cards = () => {
   const closeModal = () => setOpenModalId(null);
 
   useEffect(() => {
-    fetch("http://localhost:3000/cards")
+    fetch("https://run.mocky.io/v3/1107f63f-87c0-4cc8-a43a-bfa2d695c15b")
       .then((response) => response.json())
-      .then((data) => setCards(data))
+      .then((data) => setCards(data.cards))
       .catch((error) => console.error("Error fetching data:", error));
   }, []);
 

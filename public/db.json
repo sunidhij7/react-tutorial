@@ -1,0 +1,143 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "title": "Card-1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+      "button": "button-name 1",
+      "svgdata": "M20.33 3.66996C20.1408 3.48213 19.9035 3.35008 19.6442 3.28833C19.3849 3.22659 19.1135 3.23753 18.86 3.31996L4.23 8.19996C3.95867 8.28593 3.71891 8.45039 3.54099 8.67255C3.36307 8.89471 3.25498 9.16462 3.23037 9.44818C3.20576 9.73174 3.26573 10.0162 3.40271 10.2657C3.5397 10.5152 3.74754 10.7185 4 10.85L10.07 13.85L13.07 19.94C13.1906 20.1783 13.3751 20.3785 13.6029 20.518C13.8307 20.6575 14.0929 20.7309 14.36 20.73H14.46C14.7461 20.7089 15.0192 20.6023 15.2439 20.4239C15.4686 20.2456 15.6345 20.0038 15.72 19.73L20.67 5.13996C20.7584 4.88789 20.7734 4.6159 20.7132 4.35565C20.653 4.09541 20.5201 3.85762 20.33 3.66996ZM4.85 9.57996L17.62 5.31996L10.53 12.41L4.85 9.57996ZM14.43 19.15L11.59 13.47L18.68 6.37996L14.43 19.15Z",
+      "modaldata": "Lorem ipsum odor amet, consectetuer adipiscing elit. Nulla nulla euismod praesent non ac senectus aliquam dis. Consectetur sed vehicula duis maecenas laoreet imperdiet facilisis adipiscing commodo. Venenatis aliquet consectetur vulputate viverra habitasse potenti. Feugiat parturient enim aliquam potenti accumsan ante fusce. Ridiculus sit integer pretium ridiculus libero. Magnis vehicula arcu congue venenatis urna laoreet vestibulum ante. Conubia sodales ligula consectetur erat curabitur fermentum. Habitasse tortor mattis per laoreet adipiscing vel. Condimentum metus sapien ridiculus parturient justo. Facilisi bibendum nibh class nascetur morbi volutpat potenti. Sociosqu hendrerit molestie eleifend dictum dapibus convallis. Justo ridiculus curae nullam primis integer convallis ultricies. Nibh tellus aptent tellus congue facilisi. Quisque a lorem dictum efficitur dolor. Leo eget senectus consequat dis nisl fames habitasse vulputate enim. Imperdiet sodales dapibus varius eleifend montes etiam mattis sem mattis. Est ridiculus laoreet donec ultricies turpis. Tortor suscipit blandit laoreet velit ac vel luctus felis. Rhoncus facilisi curabitur augue aenean lacus netus eleifend. Metus imperdiet tellus fringilla quis per luctus. Inceptos feugiat luctus fringilla amet augue faucibus morbi taciti laoreet? Velit placerat malesuada, himenaeos arcu ultricies donec metus penatibus. Volutpat nisi augue enim hendrerit egestas dignissim sapien. Sagittis varius egestas eu tempor egestas ac id habitant aptent. Viverra maximus facilisis ullamcorper quisque etiam himenaeos dapibus. Nascetur nam litora urna porta porttitor viverra maecenas potenti. Suscipit montes commodo et maximus dictumst. Purus ligula semper elit parturient commodo. Elementum per curabitur class, metus vulputate morbi."
+    },
+    {
+      "id": "2",
+      "title": "Card-2",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when",
+      "button": "button-name 2",
+      "svgdata": "M3 18C3 15.3945 4.66081 13.1768 6.98156 12.348C7.61232 12.1227 8.29183 12 9 12C9.70817 12 10.3877 12.1227 11.0184 12.348C11.3611 12.4703 11.6893 12.623 12 12.8027C12.3107 12.623 12.6389 12.4703 12.9816 12.348C13.6123 12.1227 14.2918 12 15 12C15.7082 12 16.3877 12.1227 17.0184 12.348C19.3392 13.1768 21 15.3945 21 18V21H15.75V19.5H19.5V18C19.5 15.5147 17.4853 13.5 15 13.5C14.4029 13.5 13.833 13.6163 13.3116 13.8275C14.3568 14.9073 15 16.3785 15 18V21H3V18ZM9 11.25C8.31104 11.25 7.66548 11.0642 7.11068 10.74C5.9977 10.0896 5.25 8.88211 5.25 7.5C5.25 5.42893 6.92893 3.75 9 3.75C10.2267 3.75 11.3158 4.33901 12 5.24963C12.6842 4.33901 13.7733 3.75 15 3.75C17.0711 3.75 18.75 5.42893 18.75 7.5C18.75 8.88211 18.0023 10.0896 16.8893 10.74C16.3345 11.0642 15.689 11.25 15 11.25C14.311 11.25 13.6655 11.0642 13.1107 10.74C12.6776 10.4869 12.2999 10.1495 12 9.75036C11.7001 10.1496 11.3224 10.4869 10.8893 10.74C10.3345 11.0642 9.68896 11.25 9 11.25ZM13.5 18V19.5H4.5V18C4.5 15.5147 6.51472 13.5 9 13.5C11.4853 13.5 13.5 15.5147 13.5 18ZM11.25 7.5C11.25 8.74264 10.2426 9.75 9 9.75C7.75736 9.75 6.75 8.74264 6.75 7.5C6.75 6.25736 7.75736 5.25 9 5.25C10.2426 5.25 11.25 6.25736 11.25 7.5ZM15 5.25C13.7574 5.25 12.75 6.25736 12.75 7.5C12.75 8.74264 13.7574 9.75 15 9.75C16.2426 9.75 17.25 8.74264 17.25 7.5C17.25 6.25736 16.2426 5.25 15 5.25Z",
+      "modaldata": "Lorem ipsum odor amet, consectetuer adipiscing elit. Nulla nulla euismod praesent non ac senectus aliquam dis. Consectetur sed vehicula duis maecenas laoreet imperdiet facilisis adipiscing commodo. Venenatis aliquet consectetur vulputate viverra habitasse potenti. Feugiat parturient enim aliquam potenti accumsan ante fusce. Ridiculus sit integer pretium ridiculus libero. Magnis vehicula arcu congue venenatis urna laoreet vestibulum ante. Conubia sodales ligula consectetur erat curabitur fermentum. Habitasse tortor mattis per laoreet adipiscing vel. Condimentum metus sapien ridiculus parturient justo. Facilisi bibendum nibh class nascetur morbi volutpat potenti. Sociosqu hendrerit molestie eleifend dictum dapibus convallis. Justo ridiculus curae nullam primis integer convallis ultricies. Nibh tellus aptent tellus congue facilisi. Quisque a lorem dictum efficitur dolor. Leo eget senectus consequat dis nisl fames habitasse vulputate enim. Imperdiet sodales dapibus varius eleifend montes etiam mattis sem mattis. Est ridiculus laoreet donec ultricies turpis. Tortor suscipit blandit laoreet velit ac vel luctus felis. Rhoncus facilisi curabitur augue aenean lacus netus eleifend. Metus imperdiet tellus fringilla quis per luctus. Inceptos feugiat luctus fringilla amet augue faucibus morbi taciti laoreet? Velit placerat malesuada, himenaeos arcu ultricies donec metus penatibus. Volutpat nisi augue enim hendrerit egestas dignissim sapien. Sagittis varius egestas eu tempor egestas ac id habitant aptent. Viverra maximus facilisis ullamcorper quisque etiam himenaeos dapibus. Nascetur nam litora urna porta porttitor viverra maecenas potenti. Suscipit montes commodo et maximus dictumst. Purus ligula semper elit parturient commodo. Elementum per curabitur class, metus vulputate morbi."
+    },
+    {
+      "id": "3",
+      "title": "Card-3",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text.Latin literature from 45 BC.",
+      "button": "button-name 3",
+      "svgdata": "M6.99486 7.00636C6.60433 7.39689 6.60433 8.03005 6.99486 8.42058L10.58 12.0057L6.99486 15.5909C6.60433 15.9814 6.60433 16.6146 6.99486 17.0051C7.38538 17.3956 8.01855 17.3956 8.40907 17.0051L11.9942 13.4199L15.5794 17.0051C15.9699 17.3956 16.6031 17.3956 16.9936 17.0051C17.3841 16.6146 17.3841 15.9814 16.9936 15.5909L13.4084 12.0057L16.9936 8.42059C17.3841 8.03007 17.3841 7.3969 16.9936 7.00638C16.603 6.61585 15.9699 6.61585 15.5794 7.00638L11.9942 10.5915L8.40907 7.00636C8.01855 6.61584 7.38538 6.61584 6.99486 7.00636Z",
+      "modaldata": "Lorem ipsum odor amet, consectetuer adipiscing elit. Nulla nulla euismod praesent non ac senectus aliquam dis. Consectetur sed vehicula duis maecenas laoreet imperdiet facilisis adipiscing commodo. Venenatis aliquet consectetur vulputate viverra habitasse potenti. Feugiat parturient enim aliquam potenti accumsan ante fusce. Ridiculus sit integer pretium ridiculus libero. Magnis vehicula arcu congue venenatis urna laoreet vestibulum ante. Conubia sodales ligula consectetur erat curabitur fermentum. Habitasse tortor mattis per laoreet adipiscing vel. Condimentum metus sapien ridiculus parturient justo. Facilisi bibendum nibh class nascetur morbi volutpat potenti. Sociosqu hendrerit molestie eleifend dictum dapibus convallis. Justo ridiculus curae nullam primis integer convallis ultricies. Nibh tellus aptent tellus congue facilisi. Quisque a lorem dictum efficitur dolor. Leo eget senectus consequat dis nisl fames habitasse vulputate enim. Imperdiet sodales dapibus varius eleifend montes etiam mattis sem mattis. Est ridiculus laoreet donec ultricies turpis. Tortor suscipit blandit laoreet velit ac vel luctus felis. Rhoncus facilisi curabitur augue aenean lacus netus eleifend. Metus imperdiet tellus fringilla quis per luctus. Inceptos feugiat luctus fringilla amet augue faucibus morbi taciti laoreet? Velit placerat malesuada, himenaeos arcu ultricies donec metus penatibus. Volutpat nisi augue enim hendrerit egestas dignissim sapien. Sagittis varius egestas eu tempor egestas ac id habitant aptent. Viverra maximus facilisis ullamcorper quisque etiam himenaeos dapibus. Nascetur nam litora urna porta porttitor viverra maecenas potenti. Suscipit montes commodo et maximus dictumst. Purus ligula semper elit parturient commodo. Elementum per curabitur class, metus vulputate morbi."
+    },
+    {
+      "id": "4",
+      "title": "Card-4",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have.",
+      "button": "button-name 4",
+      "svgdata": "M20.33 3.66996C20.1408 3.48213 19.9035 3.35008 19.6442 3.28833C19.3849 3.22659 19.1135 3.23753 18.86 3.31996L4.23 8.19996C3.95867 8.28593 3.71891 8.45039 3.54099 8.67255C3.36307 8.89471 3.25498 9.16462 3.23037 9.44818C3.20576 9.73174 3.26573 10.0162 3.40271 10.2657C3.5397 10.5152 3.74754 10.7185 4 10.85L10.07 13.85L13.07 19.94C13.1906 20.1783 13.3751 20.3785 13.6029 20.518C13.8307 20.6575 14.0929 20.7309 14.36 20.73H14.46C14.7461 20.7089 15.0192 20.6023 15.2439 20.4239C15.4686 20.2456 15.6345 20.0038 15.72 19.73L20.67 5.13996C20.7584 4.88789 20.7734 4.6159 20.7132 4.35565C20.653 4.09541 20.5201 3.85762 20.33 3.66996ZM4.85 9.57996L17.62 5.31996L10.53 12.41L4.85 9.57996ZM14.43 19.15L11.59 13.47L18.68 6.37996L14.43 19.15Z",
+      "modaldata": "Lorem ipsum odor amet, consectetuer adipiscing elit. Nulla nulla euismod praesent non ac senectus aliquam dis. Consectetur sed vehicula duis maecenas laoreet imperdiet facilisis adipiscing commodo. Venenatis aliquet consectetur vulputate viverra habitasse potenti. Feugiat parturient enim aliquam potenti accumsan ante fusce. Ridiculus sit integer pretium ridiculus libero. Magnis vehicula arcu congue venenatis urna laoreet vestibulum ante. Conubia sodales ligula consectetur erat curabitur fermentum. Habitasse tortor mattis per laoreet adipiscing vel. Condimentum metus sapien ridiculus parturient justo. Facilisi bibendum nibh class nascetur morbi volutpat potenti. Sociosqu hendrerit molestie eleifend dictum dapibus convallis. Justo ridiculus curae nullam primis integer convallis ultricies. Nibh tellus aptent tellus congue facilisi. Quisque a lorem dictum efficitur dolor. Leo eget senectus consequat dis nisl fames habitasse vulputate enim. Imperdiet sodales dapibus varius eleifend montes etiam mattis sem mattis. Est ridiculus laoreet donec ultricies turpis. Tortor suscipit blandit laoreet velit ac vel luctus felis. Rhoncus facilisi curabitur augue aenean lacus netus eleifend. Metus imperdiet tellus fringilla quis per luctus. Inceptos feugiat luctus fringilla amet augue faucibus morbi taciti laoreet? Velit placerat malesuada, himenaeos arcu ultricies donec metus penatibus. Volutpat nisi augue enim hendrerit egestas dignissim sapien. Sagittis varius egestas eu tempor egestas ac id habitant aptent. Viverra maximus facilisis ullamcorper quisque etiam himenaeos dapibus. Nascetur nam litora urna porta porttitor viverra maecenas potenti. Suscipit montes commodo et maximus dictumst. Purus ligula semper elit parturient commodo. Elementum per curabitur class, metus vulputate morbi."
+    },
+    {
+      "id": "5",
+      "title": "Card-5",
+      "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below of a page when",
+      "button": "button-name 5",
+      "svgdata": "M3 18C3 15.3945 4.66081 13.1768 6.98156 12.348C7.61232 12.1227 8.29183 12 9 12C9.70817 12 10.3877 12.1227 11.0184 12.348C11.3611 12.4703 11.6893 12.623 12 12.8027C12.3107 12.623 12.6389 12.4703 12.9816 12.348C13.6123 12.1227 14.2918 12 15 12C15.7082 12 16.3877 12.1227 17.0184 12.348C19.3392 13.1768 21 15.3945 21 18V21H15.75V19.5H19.5V18C19.5 15.5147 17.4853 13.5 15 13.5C14.4029 13.5 13.833 13.6163 13.3116 13.8275C14.3568 14.9073 15 16.3785 15 18V21H3V18ZM9 11.25C8.31104 11.25 7.66548 11.0642 7.11068 10.74C5.9977 10.0896 5.25 8.88211 5.25 7.5C5.25 5.42893 6.92893 3.75 9 3.75C10.2267 3.75 11.3158 4.33901 12 5.24963C12.6842 4.33901 13.7733 3.75 15 3.75C17.0711 3.75 18.75 5.42893 18.75 7.5C18.75 8.88211 18.0023 10.0896 16.8893 10.74C16.3345 11.0642 15.689 11.25 15 11.25C14.311 11.25 13.6655 11.0642 13.1107 10.74C12.6776 10.4869 12.2999 10.1495 12 9.75036C11.7001 10.1496 11.3224 10.4869 10.8893 10.74C10.3345 11.0642 9.68896 11.25 9 11.25ZM13.5 18V19.5H4.5V18C4.5 15.5147 6.51472 13.5 9 13.5C11.4853 13.5 13.5 15.5147 13.5 18ZM11.25 7.5C11.25 8.74264 10.2426 9.75 9 9.75C7.75736 9.75 6.75 8.74264 6.75 7.5C6.75 6.25736 7.75736 5.25 9 5.25C10.2426 5.25 11.25 6.25736 11.25 7.5ZM15 5.25C13.7574 5.25 12.75 6.25736 12.75 7.5C12.75 8.74264 13.7574 9.75 15 9.75C16.2426 9.75 17.25 8.74264 17.25 7.5C17.25 6.25736 16.2426 5.25 15 5.25Z",
+      "modaldata": "Lorem ipsum odor amet, consectetuer adipiscing elit. Nulla nulla euismod praesent non ac senectus aliquam dis. Consectetur sed vehicula duis maecenas laoreet imperdiet facilisis adipiscing commodo. Venenatis aliquet consectetur vulputate viverra habitasse potenti. Feugiat parturient enim aliquam potenti accumsan ante fusce. Ridiculus sit integer pretium ridiculus libero. Magnis vehicula arcu congue venenatis urna laoreet vestibulum ante. Conubia sodales ligula consectetur erat curabitur fermentum. Habitasse tortor mattis per laoreet adipiscing vel. Condimentum metus sapien ridiculus parturient justo. Facilisi bibendum nibh class nascetur morbi volutpat potenti. Sociosqu hendrerit molestie eleifend dictum dapibus convallis. Justo ridiculus curae nullam primis integer convallis ultricies. Nibh tellus aptent tellus congue facilisi. Quisque a lorem dictum efficitur dolor. Leo eget senectus consequat dis nisl fames habitasse vulputate enim. Imperdiet sodales dapibus varius eleifend montes etiam mattis sem mattis. Est ridiculus laoreet donec ultricies turpis. Tortor suscipit blandit laoreet velit ac vel luctus felis. Rhoncus facilisi curabitur augue aenean lacus netus eleifend. Metus imperdiet tellus fringilla quis per luctus. Inceptos feugiat luctus fringilla amet augue faucibus morbi taciti laoreet? Velit placerat malesuada, himenaeos arcu ultricies donec metus penatibus. Volutpat nisi augue enim hendrerit egestas dignissim sapien. Sagittis varius egestas eu tempor egestas ac id habitant aptent. Viverra maximus facilisis ullamcorper quisque etiam himenaeos dapibus. Nascetur nam litora urna porta porttitor viverra maecenas potenti. Suscipit montes commodo et maximus dictumst. Purus ligula semper elit parturient commodo. Elementum per curabitur class, metus vulputate morbi."
+    },
+    {
+      "id": "6",
+      "title": "Card-6",
+      "description": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.",
+      "button": "button-name 6",
+      "svgdata": "M6.99486 7.00636C6.60433 7.39689 6.60433 8.03005 6.99486 8.42058L10.58 12.0057L6.99486 15.5909C6.60433 15.9814 6.60433 16.6146 6.99486 17.0051C7.38538 17.3956 8.01855 17.3956 8.40907 17.0051L11.9942 13.4199L15.5794 17.0051C15.9699 17.3956 16.6031 17.3956 16.9936 17.0051C17.3841 16.6146 17.3841 15.9814 16.9936 15.5909L13.4084 12.0057L16.9936 8.42059C17.3841 8.03007 17.3841 7.3969 16.9936 7.00638C16.603 6.61585 15.9699 6.61585 15.5794 7.00638L11.9942 10.5915L8.40907 7.00636C8.01855 6.61584 7.38538 6.61584 6.99486 7.00636Z",
+      "modaldata": "Lorem ipsum odor amet, consectetuer adipiscing elit. Nulla nulla euismod praesent non ac senectus aliquam dis. Consectetur sed vehicula duis maecenas laoreet imperdiet facilisis adipiscing commodo. Venenatis aliquet consectetur vulputate viverra habitasse potenti. Feugiat parturient enim aliquam potenti accumsan ante fusce. Ridiculus sit integer pretium ridiculus libero. Magnis vehicula arcu congue venenatis urna laoreet vestibulum ante. Conubia sodales ligula consectetur erat curabitur fermentum. Habitasse tortor mattis per laoreet adipiscing vel. Condimentum metus sapien ridiculus parturient justo. Facilisi bibendum nibh class nascetur morbi volutpat potenti. Sociosqu hendrerit molestie eleifend dictum dapibus convallis. Justo ridiculus curae nullam primis integer convallis ultricies. Nibh tellus aptent tellus congue facilisi. Quisque a lorem dictum efficitur dolor. Leo eget senectus consequat dis nisl fames habitasse vulputate enim. Imperdiet sodales dapibus varius eleifend montes etiam mattis sem mattis. Est ridiculus laoreet donec ultricies turpis. Tortor suscipit blandit laoreet velit ac vel luctus felis. Rhoncus facilisi curabitur augue aenean lacus netus eleifend. Metus imperdiet tellus fringilla quis per luctus. Inceptos feugiat luctus fringilla amet augue faucibus morbi taciti laoreet? Velit placerat malesuada, himenaeos arcu ultricies donec metus penatibus. Volutpat nisi augue enim hendrerit egestas dignissim sapien. Sagittis varius egestas eu tempor egestas ac id habitant aptent. Viverra maximus facilisis ullamcorper quisque etiam himenaeos dapibus. Nascetur nam litora urna porta porttitor viverra maecenas potenti. Suscipit montes commodo et maximus dictumst. Purus ligula semper elit parturient commodo. Elementum per curabitur class, metus vulputate morbi."
+    }
+  ],
+  "accordion": [
+    {
+      "id": "1",
+      "title": "section 1",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Vivamus fermentum lectus vel orci sodales, nec tincidunt lacus malesuada. Sed dignissim, nisl a hendrerit volutpat, lacus velit dignissim nisi, et ornare lorem nisi a urna. Morbi dictum mauris id eros aliquet, in ultricies nisi auctor. Integer scelerisque convallis eros sit amet cursus. Suspendisse potenti. Pellentesque et purus vitae leo convallis ullamcorper non et nisi."
+    },
+    {
+      "id": "2",
+      "title": "section 2",
+      "content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed vehicula lacus sit amet nulla gravida, sit amet tempus orci malesuada. Nulla facilisi. In hac habitasse platea dictumst. Sed vitae lacus at leo tincidunt dapibus. Aenean congue semper nisi, non volutpat velit volutpat sit amet. Mauris vestibulum diam ac nibh porttitor ultricies. Proin vel felis vel orci facilisis tristique id ut libero."
+    },
+    {
+      "id": "3",
+      "title": "section 3",
+      "content": "Quisque suscipit, lorem at ultricies fermentum, erat nunc tristique ex, vel venenatis eros sem at purus. Ut auctor convallis nisi ac scelerisque. Phasellus ac purus interdum, sollicitudin nisi at, blandit nulla. Duis nec metus tortor. Nam vestibulum turpis ut tellus dictum, eget consectetur est dapibus. Sed nec facilisis lorem, et fermentum metus. Vivamus accumsan quam vel turpis auctor, ac faucibus neque suscipit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+    }
+  ],
+  "nextActivities" :[
+    {
+      "id":"1",
+      "title":"To do",
+      "button1":"To do",
+      "button2":"Overdue"
+    },
+    {
+      "id":"2",
+     "title":"To do",
+      "button1":"To do",
+      "button2":"Overdue"
+    },
+    {
+      "id":"3",
+      "title":"Send an email",
+      "button1":"To do",
+      "button2":"Done"
+    },
+    {
+      "id":"4",
+      
+      "title":"To do",
+       "button1":"Send",
+       "button2":"Overdue"
+    },
+    {
+      "id":"5",
+     "title":"Call",
+       "button1":"To do",
+       "button2":"Done"
+    }
+  ], 
+  "recentCampaigns" :[
+    {
+      "id":"1",
+      "title":"automate2000",
+      "number":"#2034",
+      "button1":"Whatsapp",
+      "button2":"Draft",
+      "date": "Last edit Jun 24, 2024 12:00 AM"
+    },
+    {
+      "id":"2",
+      "title":"Test Webpush Campaign - 2000",
+      "number":"#2735464",
+      "button1":"Webpush",
+      "button2":"Draft",
+      "date": "Last edit Apr 10, 2024 2:41 PM"
+    },
+    {
+      "id":"3",
+      "title":"Test Webpush Campaign - 1999",
+      "number":"#2735463",
+      "button1":"Whatsapp",
+      "button2":"Draft",
+      "date": "Last edit  May 24, 2024 12:00 AM"
+    },
+    {
+      "id":"4",
+      "title":"automate250",
+      "number":"#2038684",
+      "button1":"Whatsapp",
+      "button2":"Draft",
+      "date": "Last edit June 2, 2024 12:00 AM"
+    },
+    {
+      "id":"5",
+      "title":"Test Webpush Campaign - 2008",
+      "number":"#2635463",
+      "button1":"Whatsapp",
+      "button2":"Draft",
+      "date": "Last edit June 26, 2024 12:00 AM"
+    }]
+}
