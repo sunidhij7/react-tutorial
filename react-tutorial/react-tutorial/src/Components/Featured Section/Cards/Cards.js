@@ -12,7 +12,7 @@ const Cards = () => {
   const closeModal = () => setOpenModalId(null);
 
   useEffect(() => {
-    fetch("http://localhost:3000/cards")
+    fetch("http://localhost:5002/cards")
       .then((response) => response.json())
       .then((data) => setCards(data))
       .catch((error) => console.error("Error fetching data:", error));

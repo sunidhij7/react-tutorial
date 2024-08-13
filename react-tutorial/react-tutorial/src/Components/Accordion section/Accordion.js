@@ -7,7 +7,7 @@ const Accordion = () => {
   const [expandAll, setExpandAll] = useState(false);
 
   useEffect(() => {
-    fetch("http://localhost:3000/accordion")
+    fetch("http://localhost:5002/accordion")
       .then((response) => response.json())
       .then((data) => setAccordions(data))
       .catch((error) => console.error("Error fetching data:", error));
