@@ -6,7 +6,6 @@ function Header() {
       <header className="header">
         <h1 className="header__top">Welcome Abhimanyu</h1>
         <div className="header__warning">
-          {/* <!-- info icon --> */}
           <div>
             <svg
               width="30px"
@@ -15,12 +14,9 @@ function Header() {
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
             >
-              <g  stroke-width="0"></g>
-              <g
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              ></g>
-              <g >
+              <g stroke-width="0"></g>
+              <g stroke-linecap="round" stroke-linejoin="round"></g>
+              <g>
                 <path
                   fill-rule="evenodd"
                   clip-rule="evenodd"
@@ -30,7 +26,6 @@ function Header() {
               </g>
             </svg>
           </div>
-          {/* <!-- header warning area --> */}
           <div>
             <p class="header__warning--text">
               You have one or more domains not complying with Google and Yahoo's

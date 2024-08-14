@@ -1,4 +1,3 @@
-/* Foreground Panel */
 .card--modal__panel {
   border: none;
   border-radius: 1rem;
@@ -10,7 +9,6 @@
   cursor: auto;
 }
 
-/* Header */
 .card--modal__panel--header {
   display: flex;
   justify-content: space-between;
@@ -22,7 +20,6 @@
   margin-bottom: 0.4rem;
 }
 
-/* Close Button */
 .card--modal__panel--header__closebtn {
   background-color: white;
   border: none;
@@ -37,7 +34,6 @@
   border-radius: 0.8rem;
 }
 
-/* Text */
 .card--modal__panel--text {
   margin-left: 1rem;
   margin-right: 1rem;

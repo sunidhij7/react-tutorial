@@ -28,14 +28,17 @@ const Cards = () => {
           <div className="card--right">
             <h4 className="card--right__title">{card.title}</h4>
             <p className="card--right__description">{card.description}</p>
-              <BlackButton onClick={() => openModal(card.id)} buttonTitle={card.button} />
+            <BlackButton
+              onClick={() => openModal(card.id)}
+              buttonTitle={card.button}
+            />
             {openModalId === card.id && (
               <Modal
                 isOpen={true}
                 onClose={closeModal}
                 className="card--modal"
                 modalData={card.modaldata}
-                modalHeading ={card.button}
+                modalHeading={card.button}
               />
             )}
           </div>

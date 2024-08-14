@@ -36,16 +36,12 @@ const Accordion = () => {
           const isExpanded = expandAll || isActive;
 
           return (
-            <li 
-              className={`row accordion-row ${
-                isExpanded ? "open-tab" : ""
-              }`}
+            <li
+              className={`row accordion-row ${isExpanded ? "open-tab" : ""}`}
               key={accordion.id}
             >
               <button
-                className={`accordion--trigger ${
-                  isActive ? "active" : ""
-                }`}
+                className={`accordion--trigger ${isActive ? "active" : ""}`}
                 onClick={() => toggleAccordion(accordion.id)}
               >
                 {accordion.title}
