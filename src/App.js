@@ -1,11 +1,11 @@
 import './App.css';
-import Accordion from './Components/Accordion section/Accordion.js';
-import Featured from './Components/Featured Section/Featured.js';
+import Accordion from './Components/AccordionSection/Accordion.js';
+import Featured from './Components/FeaturedSection/Featured.js';
 import Header from './Components/Header/Header.js'
-import Dropdown from './Components/Dropdown Section/Dropdown.js';
-import EndSection from './Components/End Section/EndSection.js';
-import RecentCampaigns from './Components/Recent Campaigns Section/RecentCampaigns.js';
-import NextActivities from './Components/Next Activities Section/NextActivities.js';
+import Dropdown from './Components/DropdownSection/Dropdown.js';
+import EndSection from './Components/EndSection/EndSection.js';
+import RecentCampaigns from './Components/RecentCampaignsSection/RecentCampaigns.js';
+import NextActivities from './Components/NextActivitiesSection/NextActivities.js';
 
 function App() {
   return (
