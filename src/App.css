@@ -21,10 +21,9 @@ body {
 }
 
 p {
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
+  margin: 0;
+  margin-left: 5px;
+  padding: 0.5rem;
 }
 .header__warning {
   background-color: hsl(244, 70%, 96.1%);
@@ -33,6 +32,13 @@ p {
   display: inline-flex;
   align-items: center;
 }
+
+.header__warning__icon{
+  align-items: flex-start;
+  margin-left: 5px;
+
+}
+
 .section-heading {
   font-size: 1.5rem;
   line-height: 40px;

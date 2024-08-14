@@ -6,7 +6,7 @@ function Header() {
       <header className="header">
         <h1 className="header__top">Welcome Abhimanyu</h1>
         <div className="header__warning">
-          <div>
+          <div className="header__warning__icon">
             <svg
               width="30px"
               height="30px"
