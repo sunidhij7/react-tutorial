@@ -1,5 +1,6 @@
 import React from "react";
 import "./EndSection.css";
+import ReusableButton from "../ReusableComponents/ReusableButton/ReusableButton";
 
 export default function EndSection() {
   return (
@@ -18,9 +19,10 @@ export default function EndSection() {
           many hard bounces? Add a dashboard to your homepage to drive your
           transactional email activity.
         </p>
-        <button class="black-button">
-          Show transactional emails on the homepage
-        </button>
+        <ReusableButton
+          variant="black-button"
+          buttonTitle="Show transactional emails on the homepage"
+        />
       </div>
     </>
   );

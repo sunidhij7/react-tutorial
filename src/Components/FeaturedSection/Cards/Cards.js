@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import "./Cards.css";
 import Icon from "../../ReusableComponents/Icon/Icon.js";
-import BlackButton from "../../ReusableComponents/BlackButton/BlackButton.js";
 import Modal from "../Modal/Modal.js";
+import ReusableButton from "../../ReusableComponents/ReusableButton/ReusableButton.js";
 
 const Cards = () => {
   const [cards, setCards] = useState([]);
@@ -28,9 +28,11 @@ const Cards = () => {
           <div className="card--right">
             <h4 className="card--right__title">{card.title}</h4>
             <p className="card--right__description">{card.description}</p>
-            <BlackButton
+
+            <ReusableButton
               onClick={() => openModal(card.id)}
               buttonTitle={card.button}
+              variant="black-button"
             />
             {openModalId === card.id && (
               <Modal

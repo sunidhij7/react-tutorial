@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./Accordion.css";
+import ReusableButton from "../ReusableComponents/ReusableButton/ReusableButton";
 
 const Accordion = () => {
   const [accordions, setAccordions] = useState([]);
@@ -56,12 +57,8 @@ const Accordion = () => {
           );
         })}
       </ul>
-      <button className="open-all-button" onClick={handleExpandAll}>
-        Expand All
-      </button>
-      <button className="close-all-button" onClick={handleCollapseAll}>
-        Collapse All
-      </button>
+      <ReusableButton onClick={handleExpandAll} variant="purple-button" buttonTitle="Expand All"/>
+      <ReusableButton onClick={handleCollapseAll} variant="purple-button" buttonTitle="Collapse All"/>
     </div>
   );
 };

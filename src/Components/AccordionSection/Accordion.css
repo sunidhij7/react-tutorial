@@ -62,20 +62,3 @@ li:hover {
 .row {
   border-top: 1px solid hsl(0, 0%, 89%);
 }
-
-.open-all-button,
-.close-all-button {
-  background-color: white;
-  border: none;
-  font-weight: 600;
-  color: #6358de;
-  padding: 16px;
-  font-size: 16px;
-  border-radius: 1rem;
-}
-
-.open-all-button:hover,
-.close-all-button:hover {
-  background-color: hsl(244, 70%, 96.1%);
-  cursor: pointer;
-}
